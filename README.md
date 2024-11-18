@@ -4,6 +4,7 @@ Shopzy is a Fully Functional E-commerce Platform
 # Full Stack Project with React, Node.js, MongoDB, and More
 
 This project is a full-stack application built using React, Redux, Node.js, Express.js, MongoDB, Cloudinary, PayPal, and BrevoMail (Sendinblue). Follow the instructions below to set up both the client and server, configure the environment variables, and run the application locally.
+while using the app the dummy payment was donw by paypal if you have paypal developer account or paypal sandbox account then use that other wise use ( Email :  shopzy@personal.shopzy.com  Passwors :  Shopzy@098 ) login using this and pay the amount
 
 ## Tech Stack
 
