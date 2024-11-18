@@ -22,7 +22,7 @@ while using the app the dummy payment was donw by paypal if you have paypal deve
 - Git
 - MongoDB (locally or MongoDB Atlas)
 - Cloudinary account
-- PayPal Developer Account (for sandbox credentials)
+- PayPal Developer Account (for sandbox credentials) ( Email : shopzy@personal.shopzy.com  Passwors : Shopzy@098 )
 - BrevoMail account (for email service)
 
 ## Getting Started
